@@ -1,0 +1,5 @@
+Alumno:
+Id= 12,Identificacion= 12394885	Nombres= luis	Email= lafebre@utpl.edu.ec
+ Nombre de las materias: 	calculo	fisica
+Docente Titular:	ID=23,Identificacion= maria	Nombres= maria	Email= maria@utpl.edu.ec Horario= 14
+ Nombre de las materias: 	calculo	fisica	gp
